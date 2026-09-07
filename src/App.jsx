@@ -8,7 +8,7 @@ import Footer from './components/Footer'
 function App() {
 
   return (
-    <div className='bg-gray-100 text-2xl w-full h-fit'>
+    <div className='bg-gray-100 text-2xl w-full h-fit min-w-0'>
       <Nav />
       <Introduction />
       <About />

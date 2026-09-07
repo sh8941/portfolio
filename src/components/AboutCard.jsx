@@ -2,7 +2,8 @@ import React from 'react';
 
 const AboutCard = () => {
     return (
-        <div className='w-9/20 rounded-xl px-4 py-6 h-96 bg-gray-200 border-gray-300 border  scroll-mt-48' id='about'>
+        <div className='w-full md:flex-1 rounded-xl px-4 py-6 h-fit
+                       bg-gray-200 border border-gray-300 scroll-mt-48' id='about'>
             <div className='w-full h-1/5 text-3xl text-blue-600 '>
                 <i className="ri-user-line"></i> <p className='inline text-black font-semibold'>About Me</p>
             </div>
