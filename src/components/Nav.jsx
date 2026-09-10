@@ -21,7 +21,7 @@ const Nav = () => {
         ">
             {/* Logo */}
             <div className="font-bold font-heading text-xl sm:text-2xl">
-                Shamoon <span className="text-violet-700">Haider</span>
+                Samoon <span className="text-violet-700">Haider</span>
             </div>
 
             {/* Desktop Navigation */}

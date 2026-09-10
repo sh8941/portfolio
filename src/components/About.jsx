@@ -17,7 +17,7 @@ const About = () => {
                 </div>
 
                 {/* Projects */}
-                <div className="w-full p-4 md:p-8 scroll-mt-48" id="project">
+                <div className="w-full p-0 md:p-8 mt-6 md:mt-0 scroll-mt-48" id="project">
                     <div className="w-full border rounded-xl bg-gray-100 border-gray-300">
 
                         <ProjectHeader />
