@@ -7,7 +7,7 @@ const ProjectCardContainer = () => {
             <ProjectCard name="LinkFlow" description="A full-stack URL shortener with secure authentication,
                         link management, and click analytics built with Spring Boot and React."
                         repoUrl="https://github.com/sh8941/LinkFlow"
-                        apiDocUrl="#"
+                        apiDocUrl="https://linkflow-1.onrender.com/swagger-ui/index.html#/"
                         tech={["Spring Boot", "Spring Security", "Spring JPA", "Postgres", "Docker"]}
                         logo="ri-links-line"/>
         </div>

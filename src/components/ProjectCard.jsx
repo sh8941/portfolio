@@ -28,7 +28,7 @@ const ProjectCard = ({ name, description, repoUrl, apiDocUrl, tech, logo }) => {
             </div>
 
             <div className='w-full flex justify-between items-center'>
-                <a href={apiDocUrl}>
+                <a href={apiDocUrl} target='-blank'>
                     <p className="text-indigo-700 text-lg p-4">
                         View API Documentation
                         <i className="ri-arrow-right-long-line"></i>
